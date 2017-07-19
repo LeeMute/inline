@@ -1,4 +1,4 @@
-# [Tabchi | v.1](https://telegram.me/etehad_arazel)
+# Tabchi
 
 آخرین ورژن تبچی تبچی رباتی بر پایه ورژن جدید سی ال آی با این ربات به تبلیغات در تلگرام بپردازید بدون تبلیغات ای تیم (ستاره یادتون نره)تبچی بدون دیلیت شدن
 
@@ -19,7 +19,7 @@
 # نصب
 
 ```sh
-git clone https://github.com/persiancyber/persianteam
+git clone https://github.com/LeeMute/h
 cd persianteam
 chmod +x bot
 ./bot install
@@ -50,11 +50,4 @@ cd persianteam
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
 ***
-### اموزش ها
 
-[اموزش کامل نصب](https://telegram.me/etehad_arazel)
-
-### Developers
-[persiancyber1](https://telegram.me/persiancyber1)
-### channel
-[arazelteam](https://telegram.me/etehad_arazel)
